@@ -1,5 +1,7 @@
-All of the power well out
+All of the power well out.
 
-You heard footstep outside to the door
+You heard loud footstep outside to the door.
+
+Music start playing outside.
 
 
