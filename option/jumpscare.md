@@ -1,1 +1,3 @@
-You Got Jumpscared 
+You Got Jumpscared
+
+## [Click Here](../Death.md)
