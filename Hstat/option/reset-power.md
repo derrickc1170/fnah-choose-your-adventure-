@@ -1,6 +1,6 @@
 You Need Power.
 
-We Need Reset Generator.
+We Need Reset Power Generator.
 
 Generator Had Turn On.
 

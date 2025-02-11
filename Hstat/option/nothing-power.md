@@ -1,5 +1,5 @@
 You Decide To Do Nothing
 
-Since The Power Went Out.
+Generator Broke Due To Your Laziness
 
 [Blackout](blackout.md)

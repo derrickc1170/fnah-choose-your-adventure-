@@ -1,3 +1,5 @@
-You Got Jumpscared And Get Killed by Rubber Duck
+You Got Jumpscared By Rubber Duck
 
-[Death](../../Death.md)
+It Goes Away
+
+[3 AM](../time/3AM.md)
