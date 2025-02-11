@@ -4,4 +4,4 @@ But Bee Is Near Hallway.
 
 Going To Your Office
 
-(Close The Door)[close-door.md]
+[Close The Door](close-door.md)
